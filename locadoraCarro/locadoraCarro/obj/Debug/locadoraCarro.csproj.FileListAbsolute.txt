@@ -1,0 +1,10 @@
+C:\Users\lab5.LABTEC\Desktop\locadoraCarro\locadoraCarro\bin\Debug\locadoraCarro.exe.config
+C:\Users\lab5.LABTEC\Desktop\locadoraCarro\locadoraCarro\bin\Debug\locadoraCarro.exe
+C:\Users\lab5.LABTEC\Desktop\locadoraCarro\locadoraCarro\bin\Debug\locadoraCarro.pdb
+C:\Users\lab5.LABTEC\Desktop\locadoraCarro\locadoraCarro\obj\Debug\locadoraCarro.csprojAssemblyReference.cache
+C:\Users\lab5.LABTEC\Desktop\locadoraCarro\locadoraCarro\obj\Debug\locadoraCarro.Form1.resources
+C:\Users\lab5.LABTEC\Desktop\locadoraCarro\locadoraCarro\obj\Debug\locadoraCarro.Properties.Resources.resources
+C:\Users\lab5.LABTEC\Desktop\locadoraCarro\locadoraCarro\obj\Debug\locadoraCarro.csproj.GenerateResource.cache
+C:\Users\lab5.LABTEC\Desktop\locadoraCarro\locadoraCarro\obj\Debug\locadoraCarro.csproj.CoreCompileInputs.cache
+C:\Users\lab5.LABTEC\Desktop\locadoraCarro\locadoraCarro\obj\Debug\locadoraCarro.exe
+C:\Users\lab5.LABTEC\Desktop\locadoraCarro\locadoraCarro\obj\Debug\locadoraCarro.pdb
